@@ -1,0 +1,6 @@
+.DS_Store
+*.nes
+*.dbg
+*.dep
+*.o
+*.nes.deb
